@@ -1,31 +1,21 @@
 <h1 align="center">Weather Forecast Prediction</h1>
 
 
-## Links
+Weather forecast prediction based on NeuralProphet architecture. The model deployed allow to predict weather for 3pm from the next day until maximum 5 years. In case of long time prediction, we observe a maximum predicted temperature error of 3°C. 
 
-- [Research paper](https://arxiv.org/abs/2111.15397)
-
-- [Dataset](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
-
-- [API](<API Link> "API")
-
-## Screenshots
-
-![Home Page](/screenshots/1.png "Home Page")
-
-![](/screenshots/2.png)
-
-![](/screenshots/3.png)
-
+The scripts is currently written to make prediction for Melbourne, Australia. It can be easily modified to predict other weather features like rain, humidity, wind for any desired location.  
 
 ## Built With
 
 - Python
 - JupyerNotebook
 
-## Future Updates
+## Links
 
-- [ ] Create API
+- [Research paper](https://arxiv.org/abs/2111.15397)
+
+- [Dataset](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
+
 
 ## Author
 
@@ -33,8 +23,3 @@
 
 - [Email](mailto:clmntmagdalena@gmail.com?subject=Hi "Hi!")
 
-## 🤝 Support
-
-Contributions, issues, and feature requests are welcome!
-
-Give a ⭐️ if you like this project!
